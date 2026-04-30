@@ -1,0 +1,8 @@
+opencv-python
+mediapipe 
+numpy 
+sounddevice 
+openai-whisper 
+transformers 
+torch 
+feat
